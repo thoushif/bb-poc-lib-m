@@ -1,6 +1,6 @@
 {
   "name": "thoushif-pkg2",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "scripts": {
     "build": "tsc",
@@ -9,5 +9,5 @@
   "author": "",
   "license": "ISC",
   "description": "",
-  "gitHead": "e9fe3df85ada1df08007818538e61a818a1e0ce3"
+  "gitHead": "60ae9b8a4c28619a888cd7540f8f90b024731399"
 }
